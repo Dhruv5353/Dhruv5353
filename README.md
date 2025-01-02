@@ -18,7 +18,7 @@
 
 ## 📫 Get in Touch
 - **GitHub:** [Dhruv5353](https://chatgpt.com/)
-- **LinkedIn:** [Dhruv Lokadiya](https://copilot.microsoft.com/chats/gR8zJbAYT2pRSsjmvrx4q))
+- **LinkedIn:** [Dhruv Lokadiya](https://copilot.microsoft.com/chats/gR8zJbAYT2pRSsjmvrx4q)
 
 ## 📊 GitHub Stats
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv5353&show_icons=true&theme=radical)
