@@ -4,10 +4,10 @@
 ## 💻 About Me
 - 🎓 I'm a Computer Science and Engineering student at CHARUSAT.
 - 🌱 I’m currently learning **C**, **C++**, **HTML**, **CSS**, and **JavaScript**.
-- 🚀 I enjoy solving coding problems in **C**, **C++**, and **Java**.
+- 🚀 I enjoy solving coding problems in **C**, **C++**, **Java** and **Python**.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C, C++, Java, HTML, CSS, JavaScript
+- **Languages:** C, C++, Java, HTML, CSS, JavaScript, Python
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse
 
 ## 🌟 My Interests
