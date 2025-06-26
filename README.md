@@ -19,7 +19,7 @@
 ## 📫 Get in Touch
 - **GitHub:** [Dhruv5353](https://github.com/Dhruv5353)
 - **LinkedIn:** [Dhruv Lokadiya](https://www.linkedin.com/in/dhruv-lokadiya-625062296)
-- **Leetcode:** [Dhruv Lokadiiya](https://www.imagetotext.io/)
+- **Leetcode:** [Dhruv Lokadiiya](https://leetcode.com/u/23CS041_DHRUV_LOKADIYA)
 
 ## 📊 GitHub Stats
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv5353&show_icons=true&theme=radical)
