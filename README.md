@@ -1,14 +1,15 @@
 # 💫 About Me:
 👋 Hello, I'm Dhruv Lokadiya! 
 
-## 💻 About Me
-- 🎓 I'm a Computer Science and Engineering student at CHARUSAT.
-- 🌱 I’m currently learning **C**, **C++**, **HTML**, **CSS**, and **JavaScript**.
-- 🚀 I enjoy solving coding problems in **C**, **C++**, **Java** and **Python**.
+## 💻 About Me  
+- 🎓 I'm a Computer Science and Engineering student at **CHARUSAT**.  
+- 🌱 I’m currently learning **C**, **C++**, **HTML**, **CSS**, **JavaScript**, and exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
+- 🤖 I’m passionate about integrating AI into real-world applications and solving coding problems using **C**, **C++**, **Java**, and **Python**.
 
-## 🛠️ Technologies & Tools
-- **Languages:** C, C++, Java, HTML, CSS, JavaScript, Python
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse
+## 🛠️ Technologies & Tools  
+- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript  
+- **AI/ML Tools & Libraries:** NumPy, Pandas, Matplotlib, scikit-learn  
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse, Jupyter Notebook  
 
 ## 🌟 My Interests
 - **Coding:** Passionate about building efficient algorithms and exploring web development.
