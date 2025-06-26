@@ -17,8 +17,8 @@
 - **Travel:** Love exploring new places and cultures.
 
 ## 📫 Get in Touch
-- **GitHub:** [Dhruv5353](https://chatgpt.com/)
-- **LinkedIn:** [Dhruv Lokadiya](https://copilot.microsoft.com/chats/gR8zJbAYT2pRSsjmvrx4q)
+- **GitHub:** [Dhruv5353](https://github.com/Dhruv5353)
+- **LinkedIn:** [Dhruv Lokadiya](https://www.linkedin.com/in/dhruv-lokadiya-625062296)
 - **Leetcode:** [Dhruv Lokadiiya](https://www.imagetotext.io/)
 
 ## 📊 GitHub Stats
