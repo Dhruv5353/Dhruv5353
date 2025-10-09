@@ -17,7 +17,7 @@
 ---
 
 ## 📫 Get in Touch 
-- **GitHub:** [Dhruv5353](https://github.com/Dhruv5353)
+- **GitHub:** [Dhruv5353](https://chatgpt.com/)
 - **LinkedIn:** [Dhruv Lokadiya](https://www.linkedin.com/in/dhruv-lokadiya-625062296)
 - **Leetcode:** [Dhruv Lokadiiya](https://leetcode.com/u/23CS041_DHRUV_LOKADIYA)
 
